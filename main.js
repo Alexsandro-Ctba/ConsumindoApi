@@ -61,6 +61,8 @@ class consume_api {
       this.renderPage();
     } catch (error) {
       alert("Usuario não localizado...");
+     this.inputPage.value ='';
+     
     }
     this.setLoad(false);
   }

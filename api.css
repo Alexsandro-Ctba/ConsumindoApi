@@ -29,3 +29,10 @@ h1{
     color: #fff;
     width: 20rem;
 }
+
+footer{
+    font-size: 13px;
+    color: rgb(43, 67, 77);
+    text-align: center;
+    margin-top:40rem;
+}
